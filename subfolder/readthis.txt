@@ -1,0 +1,2 @@
+$git commit –m “This is a comment for commit”
+-m stands for message
